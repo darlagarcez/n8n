@@ -1,28 +1,40 @@
 {
   "artigos": [
     {
-      "titulo": "Robótica Educacional de Baixo Custo: Arduino como Ferramenta Pedagógica",
-      "autor": "Daniel Scherer, Natanael Bezerra da Silva, Davis Matias de Oliveira",
-      "ano": 2020,
-      "link_pdf": "https://sol.sbc.org.br/index.php/ctrle/article/view/11418/11281"
-    },
-    {
-      "titulo": "Robótica Educacional e Habilidades do Século XXI: Um Estudo de Caso com Estudantes do Ensino Médio",
-      "autor": "João Pedro A. Moraes, Rodrigo S. Duran, Roberto A. Bittencourt",
+      "titulo": "Computing Education in the Era of Generative AI",
+      "autor": "Paul Denny et al.",
       "ano": 2023,
-      "link_pdf": "https://sol.sbc.org.br/index.php/educomp/article/view/23887/23715"
+      "link_pdf": "https://arxiv.org/pdf/2306.02608.pdf"
     },
     {
-      "titulo": "Praxedes: Protótipo de Um Kit Educacional de Robótica Baseado na Plataforma Arduino",
-      "autor": "Francisco Ioneiton da Silva, Daniel Scherer",
-      "ano": 2013,
-      "link_pdf": "https://ojs.ufgd.edu.br/ead/article/view/2654/1492"
+      "titulo": "Generative AI in Computing Education: Perspectives of Students and Instructors",
+      "autor": "Cynthia Zastudil; Magdalena Rogalska; Christine Kapp; Jennifer Vaughn; Stephen MacNeil",
+      "ano": 2023,
+      "link_pdf": "https://arxiv.org/pdf/2308.04309.pdf"
     },
     {
-      "titulo": "A robótica educacional: entendendo conceitos",
-      "autor": "Railane Costa Santos, Maria Deusa Ferreira da Silva",
-      "ano": 2020,
-      "link_pdf": "https://periodicos.utfpr.edu.br/rbect/article/viewFile/10965/pdf#page=1.00&gsr=0"
+      "titulo": "Imagining Computing Education Assessment after Generative AI",
+      "autor": "Stephen MacNeil et al.",
+      "ano": 2024,
+      "link_pdf": "https://arxiv.org/pdf/2401.04601.pdf"
+    },
+    {
+      "titulo": "Computing-specific pedagogies and theoretical models",
+      "autor": "Lauri Malmi et al.",
+      "ano": 2024,
+      "link_pdf": "https://arxiv.org/pdf/2409.12245.pdf"
+    },
+    {
+      "titulo": "Blended pedagogy for computer programming language",
+      "autor": "L. Zhang",
+      "ano": 2024,
+      "link_pdf": "https://files.eric.ed.gov/fulltext/EJ1445019.pdf"
+    },
+    {
+      "titulo": "Exploring Student Perception and Interactions Using ChatGPT in a Beginner-Level Python Programming Course",
+      "autor": "B. Ma et al.",
+      "ano": 2024,
+      "link_pdf": "https://files.eric.ed.gov/fulltext/ED665431.pdf"
     }
   ]
 }
