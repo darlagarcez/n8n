@@ -1,88 +1,10 @@
 {
   "artigos": [
     {
-      "titulo": "A Sala de Aula Invertida Ressignificada no Contexto do Ensino Remoto de Robótica para Formação de Professores",
-      "autor": "Pancieri, Jussara Pinto; Porto, Bruno; Oliveira, Márcia Gonçalves de; Battestin, Vanessa",
+      "titulo": "A Construção do Plano de Ensino Aprendizagem",
+      "autor": "Silva, Gidalti Guedes da; Recamán, Dorcas Rodrigues Silva de; Paula, Everton Luiz Renaud de",
       "ano": 2021,
-      "link_pdf": "https://journals-sol.sbc.org.br/index.php/rbie/article/view/2979/2085"
-    },
-    {
-      "titulo": "Proposta de uma metodologia de robótica educacional como um instrumento redutor de evasão em escolas públicas",
-      "autor": "Brando, Luccas; Dutra, Rina M. A.; Furtado, Edgar C.",
-      "ano": 2021,
-      "link_pdf": "https://sol.sbc.org.br/index.php/ctrle/article/view/17546/17381"
-    },
-    {
-      "titulo": "Ensino de Pensamento Computacional e Programação utilizando Robótica Educacional e Metodologias Ativas: relato de experiência aplicado a estudantes do ensino fundamental",
-      "autor": "Silva, Vinícius Alves; Resende, Hugo; Ferreira, Hiran Nonato M.",
-      "ano": 2024,
-      "link_pdf": "https://sol.sbc.org.br/index.php/wpci/article/view/31739/31541"
-    },
-    {
-      "titulo": "Resolução de problemas em robótica educacional: possibilidades de desenvolvimento das habilidades do pensamento computacional na Educação Básica",
-      "autor": "Rossi, Muriel Lago; Aragón, Rosane",
-      "ano": 2023,
-      "link_pdf": "https://sol.sbc.org.br/index.php/wie/article/view/26354/26177"
-    },
-    {
-      "titulo": "Robótica Educacional para Formação Técnica em Agropecuária",
-      "autor": "Ferraz, Dalva de Oliveira; Oliveira, Márcia Gonçalves de",
-      "ano": 2022,
-      "link_pdf": "https://sol.sbc.org.br/index.php/educomp_estendido/article/view/19395/19223"
-    },
-    {
-      "titulo": "Robótica e Prototipagem para Professores: uma proposta com Ensino por Investigação e Resolução de Problemas",
-      "autor": "Santos, Daniel Moreira dos; Oliveira, Márcia Gonçalves de",
-      "ano": 2025,
-      "link_pdf": "https://sol.sbc.org.br/index.php/educomp_estendido/article/view/34919/34710"
-    },
-    {
-      "titulo": "Iniciação à robótica educacional com estudantes do 9º ano do Ensino Fundamental: um relato de experiência",
-      "autor": "Rossi, Muriel Lago; Aragón, Rosane",
-      "ano": 2022,
-      "link_pdf": "https://sol.sbc.org.br/index.php/wie/article/view/22352/22176"
-    },
-    {
-      "titulo": "Educational Robotics as an incentive for Computational Thinking Learning: Systematic Literature Review",
-      "autor": "Sokolonski, Ana Carolina; Sá, Alirio Santos; Macedo, Raimundo Jose de Araujo",
-      "ano": 2020,
-      "link_pdf": "https://sol.sbc.org.br/index.php/sbie/article/view/12906/12760"
-    },
-    {
-      "titulo": "Maker Movement and Sustainable Robotics in Science Education: An Experience Report with Middle School Students",
-      "autor": "da Silva, João Batista; de Almeida, Dayne Kelly Rodrigues Soares; Damasceno Júnior, José Ademir; da Costa, Darkson Fernandes",
-      "ano": 2020,
-      "link_pdf": "https://sol.sbc.org.br/index.php/ctrle/article/view/11441/11304"
-    },
-    {
-      "titulo": "Robô Educacional de Baixo Custo para Ensino de STEAM em Escolas Públicas",
-      "autor": "Passoni, Maurício Santos; Libardi, Bruno Alves Pesse; Nogueira, Ianne Lima; Lima, Anderson de Souza",
-      "ano": 2025,
-      "link_pdf": "https://sol.sbc.org.br/index.php/ihc_estendido/article/view/37733/37515"
-    },
-    {
-      "titulo": "Prática em Robótica Educacional no Ensino Religioso: construção de timeline",
-      "autor": "Alves, Melquisedeque Jacob; Carvalho, Wendresson Christian Lourenço de; Burlamaqui, Aquiles",
-      "ano": 2024,
-      "link_pdf": "https://sol.sbc.org.br/index.php/sbceb/article/view/28670/28474"
-    },
-    {
-      "titulo": "Um Estudo de Caso sobre o Ensino da Robótica Educacional no Ensino Fundamental II",
-      "autor": "Silva, Francisco Wanderson J. da; Feitosa, Robson G. F.; Mello, Harley M. de; Feitosa, João N.; Marinus, Nustenil S. de M. L.",
-      "ano": 2024,
-      "link_pdf": "https://sol.sbc.org.br/index.php/ercemapi/article/view/30170/29978"
-    },
-    {
-      "titulo": "Computação e Sociedade: Uma Proposta de Educação em Computação para o Oitavo Ano do Ensino Fundamental II",
-      "autor": "Santana, Bianca Leite; Araujo, Luis Gustavo Jesus; Bittencourt, Roberto Almeida",
-      "ano": 2020,
-      "link_pdf": "https://sol.sbc.org.br/index.php/wie/article/view/12600/12467"
-    },
-    {
-      "titulo": "Maker Movement with Low Cost Robotics: A Study on Science Teaching in IFRS",
-      "autor": "Souza, Vanessa Faria de",
-      "ano": 2021,
-      "link_pdf": "https://sol.sbc.org.br/index.php/encompif/article/view/15957/15798"
+      "link_pdf": "https://drive.google.com/file/d/1E03QXfuJISdey6jNkPV5nWMNTGmyiTvt/view"
     }
   ]
 }
